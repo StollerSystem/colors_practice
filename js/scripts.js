@@ -8,4 +8,10 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("light-background");
   });
+
+  $("p").click(function() {
+    $("#firstpara").show("#border-hidden");
+    //$(".border-hidden").toggle();
+
+  });
 });

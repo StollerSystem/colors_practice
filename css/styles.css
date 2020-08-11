@@ -1,3 +1,4 @@
+
 .dark-background {
   background-color: rgb(52, 53, 52);
   color: aliceblue;
@@ -10,4 +11,17 @@
 
 .btn {
   color: black;
+}
+
+.border-showing {
+  display: none;
+}
+
+#border-hidden {
+  padding: 5px;
+  border: solid black;
+}
+
+.noBorder {
+  display: none;
 }

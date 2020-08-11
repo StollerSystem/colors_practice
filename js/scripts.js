@@ -10,8 +10,7 @@ $(document).ready(function() {
   });
 
   $("p").click(function() {
-    $("#firstpara").show("#border-hidden");
-    //$(".border-hidden").toggle();
+    $("p").addClass(".border");
 
   });
 });

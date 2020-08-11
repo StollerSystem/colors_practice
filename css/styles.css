@@ -13,15 +13,8 @@
   color: black;
 }
 
-.border-showing {
-  display: none;
-}
-
-#border-hidden {
+.border {
   padding: 5px;
   border: solid black;
 }
 
-.noBorder {
-  display: none;
-}

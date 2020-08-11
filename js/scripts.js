@@ -10,7 +10,7 @@ $(document).ready(function() {
   });
 
   $("p").click(function() {
-    $("p").addClass(".border");
+    $("p").addClass("border");
 
   });
 });
